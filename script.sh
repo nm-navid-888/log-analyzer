@@ -2,8 +2,8 @@
 
 PYTHON_SCRIPT="logger.py"
 
-
-INTERVAL=120
+#check the log file in every 20 seconds (we pass here seconds)
+INTERVAL=20 
 
 echo "Starting the log checker. Press Ctrl+C to stop."
 

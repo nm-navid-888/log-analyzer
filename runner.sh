@@ -7,3 +7,7 @@ chmod 700 logger.py
 chmod 700 script.sh
 
 echo "Permissions set to 700 for logger.py and script.sh."
+
+echo "Running ./script.sh file to check Error logs"
+
+./script.sh
